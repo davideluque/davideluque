@@ -2,7 +2,7 @@
 
 Welcome to my professional space 😃 
 
-- 🔭 I’m currently working on Ruby on Rails
+- 🔭 I’m currently working at Abtion A/S as a Sotware Engineer specialized in Ruby on Rails.
 - 🌱 I’m currently learning Microservices with NodeJS and React
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
