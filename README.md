@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my professional space 😃 
+Welcome to my space 😃 
 
 - 🔭 I’m currently working at Abtion A/S as a Sotware Engineer specialized in Ruby on Rails.
 - 🌱 I’m currently learning Microservices with NodeJS and React.
